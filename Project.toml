@@ -1,0 +1,10 @@
+name = "MFOpInf"
+uuid = "b69833c9-cfbc-484c-8d7c-a49a6f471a9b"
+authors = ["vivia <vzhang40@gatech.edu>"]
+version = "0.1.0"
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+
+[compat]
+LinearAlgebra = "1.11.0"
