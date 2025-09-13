@@ -1,3 +1,3 @@
 # MFOpInf.jl
 
-Humpty dumpty.
+Julia implementation of a multifidelity scheme to operator inference using a 1D Heat Equation Example
